@@ -1,5 +1,4 @@
 
-web ayu astira untuk pembuatan kalkulator sederhana
 
 <!DOCTYPE html >
 <html lang="en">
